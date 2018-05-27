@@ -1,0 +1,127 @@
+* {
+	position: relative;
+}
+
+body {
+	min-height: 100%;
+}
+
+@media (min-width: 1024px) {
+	.content {
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+}
+
+@media (max-width: 640px) {
+	.hide640 {
+		display: none;
+	}
+}
+
+@media (max-width: 500px) {
+	.hide500 {
+		display: none;
+	}
+}
+
+footer {
+	text-align: center;
+}
+
+table {
+	width: 100%
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+}
+
+div h2 {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+
+table {
+	border-collapse: separate;
+	border-spacing: 3px 5px;
+}
+
+.table-no {
+	background: #F99;
+}
+
+.table-partial {
+	background: #FFB;
+}
+
+.table-yes {
+	background: #9F9;
+}
+
+.table-yes2 {
+	background: #bfd;
+}
+
+.comp {
+	display: table;
+	width: 100%;
+	height: 150px;
+}
+
+.pros {
+	position: absolute;
+	left: 0px;
+	width: 50%;
+	background-color: #eff;
+	border-left: 8px solid #bde;
+	border-right: 50px solid White;
+}
+
+.cons {
+	position: absolute;
+	right: 0px;
+	width: 50%;
+	background-color: #fee;
+	border-left: 8px solid #fcd;
+	border-right: 50px solid white;
+}
+
+a, a:hover {
+	color: #08c;
+}
+
+a.anchor i.anchor-icon {
+	display: inline-block;
+	width: 21px;
+	height: 23px;
+	margin-top: 8px;
+	line-height: 14px;
+	vertical-align: text-top;
+	background: url(/img/link-icon.png) 0 0 no-repeat;
+	background-size: 20px 21px;
+	opacity: 0;
+	cursor: pointer;
+	padding: 0;
+	z-index: 10;
+	-webkit-transition: opacity .15s ease-in-out;
+	-moz-transition: opacity .15s ease-in-out;
+	-ms-transition: opacity .15s ease-in-out;
+	-o-transition: opacity .15s ease-in-out;
+	transition: opacity .15s ease-in-out;
+}
+
+h1:hover a.anchor i.anchor-icon,
+h2:hover a.anchor i.anchor-icon,
+h3:hover a.anchor i.anchor-icon {
+	opacity: 0.6;
+}
+
+i.anchor-icon:hover {
+	opacity: 1 !important;
+}
