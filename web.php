@@ -1,33 +1,33 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
     <head>
-        <title>macOS Telegram 客戶端版本比較</title>
+        <title>網頁版 Telegram 客戶端版本比較</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta charset="utf-8">
         <link href="//img.sean.taipei/2018/01/telegreat.png" rel="icon">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
         <meta name="description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
         <meta name="image" content="https://img.sean.taipei/2018/01/telegreat.png">
-        <meta itemprop="name" content="macOS Telegram 客戶端版本比較">
+        <meta itemprop="name" content="網頁版 Telegram 客戶端版本比較">
         <meta itemprop="description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
         <meta itemprop="image" content="https://img.sean.taipei/2018/01/telegreat.png">
         <meta name="twitter:card" content="summary">
-        <meta name="twitter:title" content="macOS Telegram 客戶端版本比較">
+        <meta name="twitter:title" content="網頁版 Telegram 客戶端版本比較">
         <meta name="twitter:description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
         <meta name="twitter:image:src" content="https://img.sean.taipei/2018/01/telegreat.png">
-        <meta name="og:title" content="macOS Telegram 客戶端版本比較">
+        <meta name="og:title" content="網頁版 Telegram 客戶端版本比較">
         <meta name="og:description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
         <meta name="og:image" content="https://img.sean.taipei/2018/01/telegreat.png">
-        <meta name="og:url" content="https://tlgr.tw/macos">
+        <meta name="og:url" content="https://tlgr.tw/web">
         <meta name="og:site_name" content="Telegram 比較站">
-        <meta name="og:locale" content="zh-TW">
+		<meta name="og:locale" content="zh-TW">
         <meta name="og:type" content="website">
-        <link href="style.css" rel="stylesheet">
+		<link href="style.css" rel="stylesheet">
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     </head>
 	<body>
 		<div class="content">
-			<h1>macOS</h1>
+			<h1>網頁版</h1>
 			<table>
 				<thead>
 					<tr>
@@ -39,71 +39,22 @@
 				</thead>
 				<tbody>
 					<tr>
-						<td>官方版</td>
-						<td class="table-yes2">可手動套用翻譯檔</td>
-						<td class="table-yes">Jun 01</td>
+						<td>Webogram</td>
+						<td class="table-no">無法翻譯</td>
+						<td class="table-yes">Jun 06</td>
 						<td class="table-yes hide500">獨立開發</td>
 					</tr>
 					<tr>
-						<td>Telegreat Desktop</td>
+						<td>Telegreat Web</td>
 						<td class="table-yes">內建完整翻譯</td>
-						<td class="table-yes">Jun 10</td>
-						<td class="table-yes2 hide500">TDesktop</td>
-					</tr>
-					<tr>
-						<td>原生版本</td>
-						<td class="table-no">無法自行翻譯</td>
-						<td class="table-yes">May 28</td>
-						<td class="table-yes hide500">獨立開發</td>
+						<td class="table-yes">Jun 17</td>
+						<td class="table-yes2 hide500">Webogram</td>
 					</tr>
 				</tbody>
 			</table>
 
-			<h2><a class="anchor" name="official" href="#official" id="official"><i class="anchor-icon"></i></a>Telegram Desktop (官方版)</h2>
-			<p class="comments-section">官方網站: <a href="https://desktop.telegram.org/" target="_blank">desktop.telegram.org</a></p>
-			<p>推薦指數：★★★★☆</p>
-
-			<div class="comp">
-				<div class="pros">
-					<h3>優點</h3>
-					<ol>
-						<li>官方出品，安全有保障</li>
-						<li>開發者積極更新</li>
-					</ol>
-				</div>
-				<div class="cons">
-					<h3>缺點</h3>
-					<ol>
-						<li>沒有內建中文</li>
-					</ol>
-				</div>
-			</div>
-
-
-			<h2><a class="anchor" name="telegreat" href="#telegreat" id="telegreat"><i class="anchor-icon"></i></a>Telegreat Desktop</h2>
-			<p>官方網站: <a href="https://telegre.at/" target="_blank">telegre.at</a></p>
-			<p>推薦指數：★★★★★</p>
-
-			<div class="comp">
-				<div class="pros">
-					<h3>優點</h3>
-					<ol>
-						<li>內建各式中文翻譯</li>
-						<li>即時跟進新功能</li>
-						<li>新增數十種特色功能</li>
-					</ol>
-				</div>
-				<div class="cons">
-					<h3>缺點</h3>
-					<ol>
-						<li>一人團隊，無法即時處理問題</li>
-					</ol>
-				</div>
-			</div>
-
-
-			<h2><a class="anchor" name="native" href="#native" id="native"><i class="anchor-icon"></i></a>Telegram for macOS (官方版)</h2>
-			<p class="comments-section">官方網站: <a href="https://macos.telegram.org/" target="_blank">macos.telegram.org</a></p>
+			<h2><a class="anchor" name="webogram" href="#webogram" id="webogram"><i class="anchor-icon"></i></a>Telegram Web (官方版)</h2>
+			<p class="comments-section">連結: <a href="https://web.telegram.org/" target="_blank">web.telegram.org</a></p>
 			<p>推薦指數：★★☆☆☆</p>
 
 			<div class="comp">
@@ -111,13 +62,54 @@
 					<h3>優點</h3>
 					<ol>
 						<li>官方出品，安全有保障</li>
+						<li>免安裝，方便臨時使用</li>
 					</ol>
 				</div>
 				<div class="cons">
 					<h3>缺點</h3>
 					<ol>
-						<li>無法設定為中文</li>
-						<li>因應蘋果政策，封鎖眾多群組/頻道</li>
+						<li>無法翻譯為中文</li>
+						<li>缺乏許多功能</li>
+					</ol>
+				</div>
+			</div>
+
+
+			<h2><a class="anchor" name="telegreat" href="#telegreat" id="telegreat"><i class="anchor-icon"></i></a>Telegreat Web</h2>
+			<p>連結: <a href="https://web.telegre.at/" target="_blank">web.telegre.at</a></p>
+			<p>推薦指數：★★★☆☆</p>
+
+			<div class="comp">
+				<div class="pros">
+					<h3>優點</h3>
+					<ol>
+						<li>內建中文翻譯</li>
+					</ol>
+				</div>
+				<div class="cons">
+					<h3>缺點</h3>
+					<ol>
+						<li>無特色功能</li>
+					</ol>
+				</div>
+			</div>
+
+
+			<h2><a class="anchor" name="tjhorner" href="#tjhorner" id="tjhorner"><i class="anchor-icon"></i></a>Telegram for Devs</h2>
+			<p>連結: <a href="https://tjhorner.com/webogram/" target="_blank">tjhorner.com</a></p>
+			<p>推薦指數：★★☆☆☆</p>
+
+			<div class="comp">
+				<div class="pros">
+					<h3>優點</h3>
+					<ol>
+						<li>內建 API Playground 等開發功能</li>
+					</ol>
+				</div>
+				<div class="cons">
+					<h3>缺點</h3>
+					<ol>
+						<li>版本稍為落後</li>
 					</ol>
 				</div>
 			</div>

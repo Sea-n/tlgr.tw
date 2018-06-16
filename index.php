@@ -43,42 +43,42 @@
                 選擇系統
             </div>
             <div class="ts three doubling cards">
-                <a class="ts card" id="android" href="/android.php">
+                <a class="ts card" id="android" href="/android">
                     <div class="content">
 						<div class="header">Android</div>
                         <div class="description">擁有最多元的第三方客戶端</div>
                     </div>
                     <div class="symbol"><i class="icon android"></i></div>
                 </a>
-                <a class="ts card" id="ios" href="/ios.php">
+                <a class="ts card" id="ios" href="/ios">
                     <div class="content">
                         <div class="header">iOS</div>
                         <div class="description">機掰蘋果</div>
                     </div>
                     <div class="symbol"><i class="icon apple"></i></div>
                 </a>
-                <a class="ts card" id="wp" href="/wp.php">
+                <a class="ts card" id="wp" href="/wp">
                     <div class="content">
                         <div class="header">Windows Phone</div>
                         <div class="description">邊緣系統 QQ</div>
                     </div>
                     <div class="symbol"><i class="icon windows"></i></div>
                 </a>
-                <a class="ts card" id="macos" href="/macos.php">
+                <a class="ts card" id="macos" href="/macos">
                     <div class="content">
                         <div class="header">macOS</div>
                         <div class="description">原生版美美的</div>
                     </div>
                     <div class="symbol"><i class="icon apple"></i></div>
                 </a>
-                <a class="ts card" id="windows" href="/windows.php">
+                <a class="ts card" id="windows" href="/windows">
                     <div class="content">
                         <div class="header">Windows</div>
 						<div class="description">桌面版最廣為使用</div>
                     </div>
                     <div class="symbol"><i class="icon windows"></i></div>
                 </a>
-                <a class="ts card" id="linux" href="/linux.php">
+                <a class="ts card" id="linux" href="/linux">
                     <div class="content">
                         <div class="header">Linux</div>
                         <div class="description">不如自幹一個吧 👍</div>
@@ -92,7 +92,7 @@
 			<ol>
 				<li>以新手為優先考量</li>
 				<li>著重中文支援度</li>
-				<li>注重安全性，某些客戶端 (如「币用」) 會私自回傳敏感訊息，在此建議沒玩個半年別好奇嘗試，詳見<a href="/bad.php">雷雷列表</li>
+				<li>注重安全性，某些客戶端 (如「币用」) 會私自回傳敏感訊息，在此建議沒玩個半年別好奇嘗試，詳見<a href="/bad">雷雷列表</li>
 			</ol>
         </content>
         <footer class="ts fluid center aligned slate">

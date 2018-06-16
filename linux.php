@@ -18,7 +18,7 @@
 		<meta name="og:title" content="Linux Telegram 客戶端版本比較">
 		<meta name="og:description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
 		<meta name="og:image" content="https://img.sean.taipei/2018/01/telegreat.png">
-		<meta name="og:url" content="https://tlgr.tw/linux.php">
+		<meta name="og:url" content="https://tlgr.tw/linux">
 		<meta name="og:site_name" content="Telegram 比較站">
 		<meta name="og:locale" content="zh-TW">
 		<meta name="og:type" content="website">
