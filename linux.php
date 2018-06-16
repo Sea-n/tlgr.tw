@@ -41,13 +41,13 @@
 					<tr>
 						<td>官方版</td>
 						<td class="table-yes2">可手動套用翻譯檔</td>
-						<td class="table-yes">May 27</td>
+						<td class="table-yes">Jun 01</td>
 						<td class="table-yes hide500">獨立開發</td>
 					</tr>
 					<tr>
 						<td>Telegreat Desktop</td>
 						<td class="table-yes">內建完整翻譯</td>
-						<td class="table-yes">May 27</td>
+						<td class="table-yes">Jun 06</td>
 						<td class="table-yes2 hide500">TDesktop</td>
 					</tr>
 					<tr>

@@ -92,7 +92,7 @@
 			<ol>
 				<li>以新手為優先考量</li>
 				<li>著重中文支援度</li>
-				<li>對於 TG 老手，當然同時使用 :D</li>
+				<li>注重安全性，某些客戶端 (如「币用」) 會私自回傳敏感訊息，在此建議沒玩個半年別好奇嘗試，詳見<a href="/bad.php">雷雷列表</li>
 			</ol>
         </content>
         <footer class="ts fluid center aligned slate">
@@ -111,7 +111,7 @@
 			for (var id in clientStrings) {
 				var cs = clientStrings[id];
 				if (cs.r.test(navigator.userAgent)) {
-					$("#" + cs.s).attr("style", "background-color: #bfb;");
+					$("#" + cs.s).addClass("positive").addClass("inverted");
 					break;
 				}
 			}

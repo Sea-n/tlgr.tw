@@ -53,7 +53,7 @@
 						<td class="table-yes">內建完整翻譯</td>
 						<td class="table-yes">支援</td>
 						<td class="hide500">5 K</td>
-						<td class="table-yes2">May 27</td>
+						<td class="table-yes2">May 28</td>
 						<td class="table-yes2 hide640">Telegram 官方版</td>
 					</tr>
 					<tr>
@@ -61,7 +61,7 @@
 						<td class="table-partial">內建部分翻譯</td>
 						<td class="table-no">不支援</td>
 						<td class="hide500">10 M</td>
-						<td class="table-partial">May 3</td>
+						<td class="table-partial">Jun 08</td>
 						<td class="table-partial hide640">Telegram 官方版</td>
 					</tr>
 					<tr>
@@ -77,7 +77,7 @@
 						<td class="table-no">僅英文</td>
 						<td class="table-yes">支援</td>
 						<td class="hide500">5 M</td>
-						<td class="table-yes2">Apr 7</td>
+						<td class="table-yes2">Apr 07</td>
 						<td class="table-yes hide640">獨立開發</td>
 					</tr>
 					<tr>
@@ -85,7 +85,7 @@
 						<td class="table-yes">預設為全中文</td>
 						<td class="table-yes">支援</td>
 						<td class="hide500">10 K</td>
-						<td class="table-yes2">Apr 21</td>
+						<td class="table-yes2">Jun 06</td>
 						<td class="table-yes2 hide640">Telegram X</td>
 					</tr>
 				</tbody>

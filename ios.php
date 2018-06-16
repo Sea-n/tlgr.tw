@@ -43,11 +43,18 @@
 						<td class="table-yes2">Mar 24</td>
 					</tr>
 				</tbody>
+				<tbody>
+					<tr>
+            <td>Telegram X</td>
+            <td class="table-no">無法自行翻譯</td>
+						<td class="table-yes2">Jun 02</td>
+					</tr>
+				</tbody>
 			</table>
 
 
 			<h2><a class="anchor" name="official" href="#official" id="official"><i class="anchor-icon"></i></a>Telegram Messenger (官方版)</h2>
-			<p class="comments-section">App Store 連結: <a href="https://itunes.apple.com/tw/app/telegram-messenger/id686449807" target="_blank">Telegram Messenger</a></p>
+			<p class="comments-section">App Store 連結: <a href="https://itunes.apple.com/tw/app/id686449807" target="_blank">Telegram Messenger</a></p>
 
 			<div class="comp">
 				<div class="pros">
@@ -60,6 +67,26 @@
 					<h3>缺點</h3>
 					<ol>
 						<li>沒有內建中文</li>
+					</ol>
+				</div>
+			</div>
+
+
+			<h2><a class="anchor" name="telegram-x" href="#telegram-x" id="telegram-x"><i class="anchor-icon"></i></a>Telegram X</h2>
+			<p class="comments-section">App Store 連結: <a href="https://itunes.apple.com/tw/app/id898228810" target="_blank">Telegram X</a></p>
+
+			<div class="comp">
+				<div class="pros">
+					<h3>優點</h3>
+					<ol>
+            <li>更輕盈、更快及電池使用效率更高</li>
+            <li>平滑動畫和更快的速度及載入時間</li>
+					</ol>
+				</div>
+				<div class="cons">
+					<h3>缺點</h3>
+					<ol>
+						<li>無法翻譯為中文</li>
 					</ol>
 				</div>
 			</div>
