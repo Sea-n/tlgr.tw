@@ -43,27 +43,6 @@
                 選擇系統
             </div>
             <div class="ts three doubling cards">
-                <a class="ts card" id="android" href="/android">
-                    <div class="content">
-						<div class="header">Android</div>
-                        <div class="description">擁有最多元的第三方客戶端</div>
-                    </div>
-                    <div class="symbol"><i class="icon android"></i></div>
-                </a>
-                <a class="ts card" id="ios" href="/ios">
-                    <div class="content">
-                        <div class="header">iOS</div>
-                        <div class="description">機掰蘋果</div>
-                    </div>
-                    <div class="symbol"><i class="icon apple"></i></div>
-                </a>
-                <a class="ts card" id="wp" href="/wp">
-                    <div class="content">
-                        <div class="header">Windows Phone</div>
-                        <div class="description">邊緣系統 QQ</div>
-                    </div>
-                    <div class="symbol"><i class="icon windows"></i></div>
-                </a>
                 <a class="ts card" id="macos" href="/macos">
                     <div class="content">
                         <div class="header">macOS</div>
@@ -85,6 +64,27 @@
                     </div>
                     <div class="symbol"><i class="icon linux"></i></div>
                 </a>
+                <a class="ts card" id="android" href="/android">
+                  <div class="content">
+                      <div class="header">Android</div>
+                      <div class="description">擁有最多元的第三方客戶端</div>
+                    </div>
+                    <div class="symbol"><i class="icon android"></i></div>
+                </a>
+                <a class="ts card" id="ios" href="/ios">
+                    <div class="content">
+                        <div class="header">iOS</div>
+                        <div class="description">機掰蘋果</div>
+                    </div>
+                    <div class="symbol"><i class="icon apple"></i></div>
+                </a>
+                <a class="ts card" id="web" href="/web">
+                    <div class="content">
+                        <div class="header">Web</div>
+                        <div class="description">網頁版也能用喔 😄</div>
+                    </div>
+                    <div class="symbol"><i class="icon browser"></i></div>
+                </a>
 			</div>
             <div class="ts massive header">
                 評比標準
@@ -103,7 +103,6 @@
 			var clientStrings = [
 				{s:'android', r:/Android/},
 				{s:'ios', r:/(iPhone|iPad)/},
-				{s:'wp', r:/Windows Phone/},
 				{s:'macos', r:/Mac/},
 				{s:'windows', r:/Windows/},
 				{s:'linux', r:/Linux/}
