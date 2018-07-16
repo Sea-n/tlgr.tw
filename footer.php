@@ -5,8 +5,8 @@ foreach ([
 	'macos' => 'macOS',
 	'windows' => 'Windows',
 	'linux' => 'Linux',
-  'ios' => 'iOS',
-  'web' => 'Web',
+	'ios' => 'iOS',
+	'web' => 'Web',
 	'wp' => 'Windows Phone'
 ] as $link => $text) {
 	if (strpos($_SERVER['REQUEST_URI'], $link) === false)

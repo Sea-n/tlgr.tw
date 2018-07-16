@@ -1,30 +1,30 @@
 <!DOCTYPE html>
 <html lang="zh-TW">
-    <head>
-        <title>網頁版 Telegram 客戶端版本比較</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta charset="utf-8">
-        <link href="//img.sean.taipei/2018/01/telegreat.png" rel="icon">
+	<head>
+		<title>網頁版 Telegram 客戶端版本比較</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta charset="utf-8">
+		<link href="//img.sean.taipei/2018/01/telegreat.png" rel="icon">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-        <meta name="description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
-        <meta name="image" content="https://img.sean.taipei/2018/01/telegreat.png">
-        <meta itemprop="name" content="網頁版 Telegram 客戶端版本比較">
-        <meta itemprop="description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
-        <meta itemprop="image" content="https://img.sean.taipei/2018/01/telegreat.png">
-        <meta name="twitter:card" content="summary">
-        <meta name="twitter:title" content="網頁版 Telegram 客戶端版本比較">
-        <meta name="twitter:description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
-        <meta name="twitter:image:src" content="https://img.sean.taipei/2018/01/telegreat.png">
-        <meta name="og:title" content="網頁版 Telegram 客戶端版本比較">
-        <meta name="og:description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
-        <meta name="og:image" content="https://img.sean.taipei/2018/01/telegreat.png">
-        <meta name="og:url" content="https://tlgr.tw/web">
-        <meta name="og:site_name" content="Telegram 比較站">
+		<meta name="description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
+		<meta name="image" content="https://img.sean.taipei/2018/01/telegreat.png">
+		<meta itemprop="name" content="網頁版 Telegram 客戶端版本比較">
+		<meta itemprop="description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
+		<meta itemprop="image" content="https://img.sean.taipei/2018/01/telegreat.png">
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="網頁版 Telegram 客戶端版本比較">
+		<meta name="twitter:description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
+		<meta name="twitter:image:src" content="https://img.sean.taipei/2018/01/telegreat.png">
+		<meta name="og:title" content="網頁版 Telegram 客戶端版本比較">
+		<meta name="og:description" content="自由開放的 Telegram 在各平台都有數十種客戶端，各有哪些優缺點，又該如何選擇呢？">
+		<meta name="og:image" content="https://img.sean.taipei/2018/01/telegreat.png">
+		<meta name="og:url" content="https://tlgr.tw/web">
+		<meta name="og:site_name" content="Telegram 比較站">
 		<meta name="og:locale" content="zh-TW">
-        <meta name="og:type" content="website">
+		<meta name="og:type" content="website">
 		<link href="style.css" rel="stylesheet">
-        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    </head>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	</head>
 	<body>
 		<div class="content">
 			<h1>網頁版</h1>
@@ -41,13 +41,19 @@
 					<tr>
 						<td>Webogram</td>
 						<td class="table-no">無法翻譯</td>
-						<td class="table-yes">Jun 06</td>
+						<td class="table-yes">2018 June</td>
 						<td class="table-yes hide500">獨立開發</td>
 					</tr>
 					<tr>
 						<td>Telegreat Web</td>
 						<td class="table-yes">內建完整翻譯</td>
-						<td class="table-yes">Jun 17</td>
+						<td class="table-yes">2018 June</td>
+						<td class="table-yes2 hide500">Webogram</td>
+					</tr>
+					<tr>
+						<td>Webogram for Devs</td>
+						<td class="table-no">無法翻譯</td>
+						<td class="table-yes">2018 June</td>
 						<td class="table-yes2 hide500">Webogram</td>
 					</tr>
 				</tbody>
@@ -115,5 +121,5 @@
 			</div>
 		</div>
 		<?php include('footer.php'); ?>
-    </body>
+	</body>
 </html>
