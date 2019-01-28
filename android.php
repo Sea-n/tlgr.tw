@@ -45,7 +45,7 @@
 						<td class="table-yes2">可手動套用翻譯檔</td>
 						<td class="table-yes">支援</td>
 						<td class="hide500">100 M</td>
-						<td class="table-yes">2018 July</td>
+						<td class="table-yes">2019 January</td>
 						<td class="table-yes hide640">獨立開發</td>
 					</tr>
 					<tr>
@@ -53,7 +53,7 @@
 						<td class="table-yes">內建完整翻譯</td>
 						<td class="table-yes">支援</td>
 						<td class="hide500">10 K</td>
-						<td class="table-yes2">2018 July</td>
+						<td class="table-yes2">2018 August</td>
 						<td class="table-yes2 hide640">Telegram 官方版</td>
 					</tr>
 					<tr>
@@ -61,7 +61,7 @@
 						<td class="table-partial">內建部分翻譯</td>
 						<td class="table-no">不支援</td>
 						<td class="hide500">10 M</td>
-						<td class="table-partial">2018 June</td>
+						<td class="table-partial">2018 December</td>
 						<td class="table-partial hide640">Telegram 官方版</td>
 					</tr>
 					<tr>
@@ -69,7 +69,7 @@
 						<td class="table-no">僅英文</td>
 						<td class="table-yes">支援</td>
 						<td class="hide500">5 M</td>
-						<td class="table-yes2">2018 July</td>
+						<td class="table-yes2">2018 December</td>
 						<td class="table-yes hide640">獨立開發</td>
 					</tr>
 					<tr>
@@ -77,8 +77,16 @@
 						<td class="table-yes">預設為全中文</td>
 						<td class="table-yes">支援</td>
 						<td class="hide500">10 K</td>
-						<td class="table-yes2">2018 July</td>
+						<td class="table-yes2">2018 August</td>
 						<td class="table-yes2 hide640">Telegram X</td>
+					</tr>
+					<tr>
+						<td>Telegram FOSS</td>
+						<td class="table-yes2">可手動套用翻譯檔</td>
+						<td class="table-yes">支援</td>
+						<td class="hide500">-</td>
+						<td class="table-yes">2019 January</td>
+						<td class="table-yes hide640">Telegram 官方版</td>
 					</tr>
 				</tbody>
 			</table>
@@ -185,6 +193,27 @@
 					<h3>缺點</h3>
 					<ol>
 						<li>未對簡體中文最佳化</li>
+					</ol>
+				</div>
+			</div>
+			<h2>
+			<a class="anchor" name="foss" href="#foss" id="foss"><i class="anchor-icon"></i></a>Telegram FOSS</h2>
+			<p class="comments-section">F-Droid 連結: 
+			<a href="https://f-droid.org/packages/org.telegram.messenger/" target="_blank">org.telegram.messenger</a>
+			</p>
+			<p>推薦指數：★★★★☆</p>
+			<div class="comp">
+				<div class="pros">
+					<h3>優點</h3>
+					<ol>
+						<li>移除了所有閉源組件</li>
+						<li>依賴的組件已更新至最新</li>
+					</ol>
+				</div>
+				<div class="cons">
+					<h3>缺點</h3>
+					<ol>
+						<li>沒有內建中文</li>
 					</ol>
 				</div>
 			</div>
